@@ -3,7 +3,7 @@
 Senior Software Engineer and Application Architect, focused primarily in .NET Web applications. 
 With ~20y experience, and always enthusiastic about all software development life cycle
 
-- 👀 Interested in being up to date with new technologies in my area
+- 👀 Interested in being up to date with new technologies
 - 🌱 I’m currently learning nodejs...
 - 📫 How to reach me 
 <a href="www.linkedin.com/in/dcarnasciali">Linked In</a>
